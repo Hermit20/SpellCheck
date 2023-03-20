@@ -1,0 +1,2 @@
+rud, red, 18, rudder, 4, rude, 2
+bud, bed, 0
